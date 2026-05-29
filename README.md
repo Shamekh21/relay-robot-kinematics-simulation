@@ -1,5 +1,5 @@
 # Relay Robot Kinematics Simulation
-![Relay Robot Simulation](images/simulation.gif)
+![Relay Robot Simulation](Simulation.gif)
 
 MATLAB-based simulation and kinematic analysis for the Relay Autonomous Service Robot using a Differential Drive Mobile Robot model.
 
